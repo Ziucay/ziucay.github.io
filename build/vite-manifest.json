@@ -8,12 +8,12 @@
     "src": "src/lib/images/telegram.png"
   },
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-41fb1a26.js",
+    "file": "_app/immutable/start-2c144630.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
       "_index-a7c5e7e5.js",
-      "_singletons-0e988d54.js"
+      "_singletons-7b0e2030.js"
     ],
     "dynamicImports": [
       ".svelte-kit/generated/nodes/0.js",
@@ -35,12 +35,12 @@
     ]
   },
   "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
-    "file": "_app/immutable/components/error.svelte-892bf3b6.js",
+    "file": "_app/immutable/components/error.svelte-434b8df0.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
     "isEntry": true,
     "imports": [
       "_index-a7c5e7e5.js",
-      "_singletons-0e988d54.js"
+      "_singletons-7b0e2030.js"
     ]
   },
   "src/routes/+page.svelte": {
@@ -85,8 +85,8 @@
       "__layout-1daba58d.js"
     ]
   },
-  "_singletons-0e988d54.js": {
-    "file": "_app/immutable/chunks/singletons-0e988d54.js",
+  "_singletons-7b0e2030.js": {
+    "file": "_app/immutable/chunks/singletons-7b0e2030.js",
     "imports": [
       "_index-a7c5e7e5.js"
     ]
@@ -107,7 +107,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/1.js": {
-    "file": "_app/immutable/chunks/1-4385afbc.js",
+    "file": "_app/immutable/chunks/1-a49cb689.js",
     "src": ".svelte-kit/generated/nodes/1.js",
     "isDynamicEntry": true,
     "imports": [
@@ -142,8 +142,8 @@
     "file": "_app/immutable/assets/_layout-9d37a952.css",
     "src": "src/routes/+layout.css"
   },
-  "src/routes/fact/+page.css": {
+  "src/routes/about/+page.css": {
     "file": "_app/immutable/assets/_page-04181378.css",
-    "src": "src/routes/fact/+page.css"
+    "src": "src/routes/about/+page.css"
   }
 }
