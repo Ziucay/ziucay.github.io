@@ -8,12 +8,12 @@
     "src": "src/lib/images/telegram.png"
   },
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-030b9283.js",
+    "file": "_app/immutable/start-eaeb55b7.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
       "_index-a7c5e7e5.js",
-      "_singletons-3f5190b6.js"
+      "_singletons-1768a293.js"
     ],
     "dynamicImports": [
       ".svelte-kit/generated/nodes/0.js",
@@ -35,12 +35,12 @@
     ]
   },
   "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
-    "file": "_app/immutable/components/error.svelte-e08f97b6.js",
+    "file": "_app/immutable/components/error.svelte-044b60cc.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
     "isEntry": true,
     "imports": [
       "_index-a7c5e7e5.js",
-      "_singletons-3f5190b6.js"
+      "_singletons-1768a293.js"
     ]
   },
   "src/routes/+page.svelte": {
@@ -85,8 +85,8 @@
       "__layout-1daba58d.js"
     ]
   },
-  "_singletons-3f5190b6.js": {
-    "file": "_app/immutable/chunks/singletons-3f5190b6.js",
+  "_singletons-1768a293.js": {
+    "file": "_app/immutable/chunks/singletons-1768a293.js",
     "imports": [
       "_index-a7c5e7e5.js"
     ]
@@ -107,7 +107,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/1.js": {
-    "file": "_app/immutable/chunks/1-9c8bd82b.js",
+    "file": "_app/immutable/chunks/1-0e2e124a.js",
     "src": ".svelte-kit/generated/nodes/1.js",
     "isDynamicEntry": true,
     "imports": [
